@@ -1,0 +1,8 @@
+S = codex Seguierianus3 c. 1-4 p. 269, 5 deest,
+W = codex wurzeburgensis.
+
+G = codex Sangallensis.
+V = codex Veronensis.
+
+ 
+

@@ -1,0 +1,9 @@
+S :codex Seguierianus‚
+0 = codex Floriacensis, nunc Aurelianensis 131 saec. vll.
+
+W: codex wurzeburgensis.
+G = codex Sangallensis.
+V = codex Veronensis.
+
+ 
+
